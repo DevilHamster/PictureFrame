@@ -44,3 +44,5 @@ By using *Preset Save Preset*, the current frame style can be saved as a .json f
 1. When the program starts, only *Picture-Open Picture* function is provided, and all functions are enabled when the image is opened
 2. If the opened image lacks exif information, the missing information will be ignored
 3. When batching images, the program will skip images which lack exif information
+
+![image](https://raw.githubusercontent.com/DevilHamster/PictureFrame/master/Demonstration.png)

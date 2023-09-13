@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PictureFrame": {
+      "commandName": "Project",
+      "workingDirectory": "D:\\C#相关文档\\Winform Works\\PictureFrame\\PictureFrame"
+    }
+  }
+}
